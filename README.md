@@ -1,2 +1,2 @@
-# AssessmentSurvey
-Survey to assess open science needs among data professionals
+# Surveys
+Surveys administered as part of the coding2share project
